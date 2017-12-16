@@ -102,3 +102,6 @@ ENV/
 
 # Ignoring input file
 in.txt
+
+# Ignoring temporary files
+temp*
