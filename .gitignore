@@ -105,3 +105,6 @@ in.txt
 
 # Ignoring temporary files
 temp*
+
+# Ignoring work token
+.token
