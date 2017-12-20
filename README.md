@@ -5,7 +5,7 @@ Advent of Code solutions
 - [x] Add solution to Day 1
 - [x] Add solution to Day 2
 - [x] Add solution to Day 3
-- [ ] Add solution to Day 4
+- [x] Add solution to Day 4
 - [ ] Add solution to Day 5
 - [ ] Add solution to Day 6
 - [ ] Add solution to Day 7
