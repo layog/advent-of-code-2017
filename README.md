@@ -9,8 +9,8 @@ Advent of Code solutions
 - [x] Add solution to Day 5
 - [x] Add solution to Day 6
 - [x] Add solution to Day 7
-- [ ] Add solution to Day 8
-- [ ] Add solution to Day 9
+- [x] Add solution to Day 8
+- [x] Add solution to Day 9
 - [x] Add solution to Day 10
 - [ ] Add solution to Day 11
 - [ ] Add solution to Day 12
