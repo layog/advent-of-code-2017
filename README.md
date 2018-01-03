@@ -12,18 +12,18 @@ Advent of Code solutions
 - [x] Add solution to Day 8
 - [x] Add solution to Day 9
 - [x] Add solution to Day 10
-- [ ] Add solution to Day 11
-- [ ] Add solution to Day 12
-- [ ] Add solution to Day 13
+- [x] Add solution to Day 11
+- [x] Add solution to Day 12
+- [x] Add solution to Day 13
 - [x] Add solution to Day 14
 - [x] Add solution to Day 15
-- [ ] Add solution to Day 16
+- [x] Add solution to Day 16
 - [x] Add solution to Day 17
 - [x] Add solution to Day 18
 - [x] Add solution to Day 19
 - [x] Add solution to Day 20
-- [ ] Add solution to Day 21
-- [ ] Add solution to Day 22
-- [ ] Add solution to Day 23
-- [ ] Add solution to Day 24
-- [ ] Add solution to Day 25
+- [x] Add solution to Day 21
+- [x] Add solution to Day 22
+- [x] Add solution to Day 23
+- [x] Add solution to Day 24
+- [x] Add solution to Day 25
